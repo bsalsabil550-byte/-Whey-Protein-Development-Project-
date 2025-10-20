@@ -115,10 +115,7 @@ Each task is assigned to a specific collaborator to ensure transparency, collabo
 ---
 
 ## 🔗 **Repository Link**
-👉 [GitHub Repository: Whey-Protein-Development-Project](https://github.com/)
-
-*(Replace with your actual repository link once created.)*
----
+👉 https://github.com/meriemabelaoui-glitch/-Whey-Protein-Development-Project-
 
 **Prepared by:** *Meriem Abdellaoui (Project Leader)*  
 **With:** *Salsabil Benallal (Quality Specialist)*  
